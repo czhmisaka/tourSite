@@ -6,3 +6,10 @@
     z-index: -1;
     margin-left: -4em;
 }
+.color_golden{
+    color:goldenrod;
+}
+.color_gray{
+    color: gray;
+    text-shadow: 0px 0px 10px white;
+}
