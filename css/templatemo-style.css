@@ -925,6 +925,13 @@ a.btn-left:hover,
   background: white;
   padding: 25px;
   overflow: hidden;
+  background-size: contain;
+}
+.color_black{
+  color: black;
+}
+.color_white{
+  color: white;
 }
 
 .intro-header {
@@ -991,7 +998,8 @@ h3.grid-heading {
 
 .service-item {
   overflow: hidden;
-  margin-bottom: 30px;
+  margin: 30px;
+  padding: 0px;
 }
 
 .service-item.service-right .service-icon {
