@@ -927,10 +927,12 @@ a.btn-left:hover,
   overflow: hidden;
   background-size: cover;
 }
-.color_black{
+
+.color_black {
   color: black;
 }
-.color_white{
+
+.color_white {
   color: white;
 }
 
@@ -1010,6 +1012,10 @@ h3.grid-heading {
 
 .service-item.service-right .service-content {
   text-align: left;
+}
+
+.service-content img {
+  width: 100%;
 }
 
 .service-item.service-left .service-icon {
